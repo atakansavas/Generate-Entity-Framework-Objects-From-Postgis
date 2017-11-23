@@ -42,25 +42,15 @@ namespace CreateRows
                         var udtName = reader["udt_name"].ToString();
 
                         if (udtName.Contains("int"))
-                        {
                             tx += "int ";
-                        }
                         else if (udtName.Contains("numeric"))
-                        {
                             tx += "decimal ";
-                        }
                         else if (udtName.Contains("varchar") || udtName.Contains("text"))
-                        {
                             tx += "string ";
-                        }
-                        else if (udtName.Contains("timestamp"))
-                        {
+                        else if (udtName.Contains("timestamp") || udtName.Contains("date"))
                             tx += "DateTime ";
-                        }
                         else if (udtName.Contains("bool") || udtName.Contains("bit"))
-                        {
                             tx += "bool ";
-                        }
 
                         tx += clName + " { get; set; }";
                         richTextBox1.AppendText(Environment.NewLine + tx);

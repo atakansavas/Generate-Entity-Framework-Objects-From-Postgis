@@ -17,3 +17,14 @@ C:\Git\Atakansavas\Mssql-Rows-to-Postgresql-Rows\CreateRows\obj\Debug\CreateRows
 C:\Yedek\asdasd\bin\Debug\CreateRows.exe.config
 C:\Yedek\asdasd\obj\Debug\CreateRows.exe
 C:\Yedek\asdasd\obj\Debug\CreateRows.pdb
+C:\Git\Atakansavas\Generate-Entity-Framework-Objects-From-Postgis\bin\Debug\CreateRows.exe.config
+C:\Git\Atakansavas\Generate-Entity-Framework-Objects-From-Postgis\obj\Debug\CreateRows.exe
+C:\Git\Atakansavas\Generate-Entity-Framework-Objects-From-Postgis\obj\Debug\CreateRows.pdb
+C:\Git\Atakansavas\Generate-Entity-Framework-Objects-From-Postgis\bin\Debug\CreateRows.exe
+C:\Git\Atakansavas\Generate-Entity-Framework-Objects-From-Postgis\bin\Debug\CreateRows.pdb
+C:\Git\Atakansavas\Generate-Entity-Framework-Objects-From-Postgis\bin\Debug\Npgsql.xml
+C:\Git\Atakansavas\Generate-Entity-Framework-Objects-From-Postgis\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Git\Atakansavas\Generate-Entity-Framework-Objects-From-Postgis\obj\Debug\CreateRows.csprojResolveAssemblyReference.cache
+C:\Git\Atakansavas\Generate-Entity-Framework-Objects-From-Postgis\obj\Debug\CreateRows.Form1.resources
+C:\Git\Atakansavas\Generate-Entity-Framework-Objects-From-Postgis\obj\Debug\CreateRows.Properties.Resources.resources
+C:\Git\Atakansavas\Generate-Entity-Framework-Objects-From-Postgis\obj\Debug\CreateRows.csproj.GenerateResource.Cache
